@@ -4,7 +4,7 @@ public class Program {
 
     public static void main(String[] args) {
 
-        System.out.println("potato ice cream");
+        System.out.println("Hello would");
 
     }
 
