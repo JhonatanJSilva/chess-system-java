@@ -1,3 +1,3 @@
-# chess-system-java
+# jhonatanSilva.chess-system-java
 
 ESTUDOS
